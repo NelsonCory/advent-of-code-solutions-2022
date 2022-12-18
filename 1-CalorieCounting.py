@@ -1,6 +1,6 @@
 # Advent of Code Day 1
 # 12/1/2022
-
+#
 #Problem 1
 # Goal: Find the Elf carrying the most Calories.
 #       How many total Calories is that Elf carrying?
@@ -43,8 +43,6 @@ def main():
     highestThree = findMaxThree(elfList)
     print("Solution 1: Total -",maxCalories)
     print("Solution 2: Total -",highestThree)
-
-    
-    
+ 
 main()
     
